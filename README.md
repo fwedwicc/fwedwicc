@@ -7,10 +7,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fwedwicc&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=highcontrast&hide_border=true&order=2" height="165" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=fwedwicc&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="165" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fwedwicc&radius=7&theme=high-contrast&area=true&order=5&hide_border=true" height="240" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fwedwicc&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=material-palenight&hide_border=true&order=2" height="165" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=fwedwicc&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=5&order=3" height="165" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fwedwicc&radius=7&theme=material-palenight&area=true&order=5&hide_border=true" height="240" alt="activity-graph graph"  />
 </div>
+
 
 ###
 
