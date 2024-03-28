@@ -7,10 +7,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fwedwicc&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=highcontrast&hide_border=true&order=2" height="165" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=fwedwicc&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="165" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fwedwicc&radius=7&theme=high-contrast&area=true&order=5&hide_border=true" height="240" alt="activity-graph graph"  />
 </div>
 
 ###
