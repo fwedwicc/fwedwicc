@@ -1,8 +1,21 @@
-<h1 align="center">Readme Test</h1>
+<h1 align="center">Hi, I'm Fred.</h1>
 
 ###
 
-<p align="center">Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!Hello World!!</p>
+<h6 align="center">Aspiring Front-end Developer and UI/UX Designer</h6>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="24" height="16" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="24" height="16" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="24" height="16" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="24" height="16" alt="gmail logo"  />
+</div>
+
+###
+
+<h3 align="center">My Stats</h3>
 
 ###
 
@@ -14,32 +27,10 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="33" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="33" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="33" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="33" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="33" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="33" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="33" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="33" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="33" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="33" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="33" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="33" alt="figma logo"  />
-</div>
+<h3 align="center">My Certifications</h3>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fwedwicc&repo=E-Certificates&hide_border=true&show_owner=true&theme=material-palenight&icon_color=C792EA" height="120" alt="certification repo"  />
+</div>
