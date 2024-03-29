@@ -27,6 +27,7 @@
 
 ###
 
+<!---
 <h3 align="center">My Certifications</h3>
 
 ###
@@ -34,3 +35,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fwedwicc&repo=E-Certificates&hide_border=true&show_owner=true&theme=material-palenight&icon_color=C792EA" height="120" alt="certification repo"  />
 </div>
+-->
