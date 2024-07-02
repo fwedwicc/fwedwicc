@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="70" src="https://i.imgflip.com/65efzo.gif"  />
+    <img height="70" src="https://raw.githubusercontent.com/fwedwicc/fwedwicc/main/assets/fm-logo.svg" />
 </div>
-
 
 <h3 align="center">< Fred / ></h3>
 
@@ -20,7 +19,7 @@
 
 ###
 
-<h3 align="center">My Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 ###
 
@@ -30,14 +29,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fwedwicc&radius=10&theme=github-dark-dimmed&area=true&order=5&hide_border=false&area_color=39D353&line=006D32&color=ffffff&custom_title=My%20GitHub%20Contribution%20Graph&point=39D353" height="240" alt="activity-graph graph" />
 </div>
 
-###
-
-<!---
-<h3 align="center">My Certifications</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fwedwicc&repo=E-Certificates&hide_border=true&show_owner=true&theme=material-palenight&icon_color=C792EA" height="120" alt="certification repo"  />
-</div>
--->
