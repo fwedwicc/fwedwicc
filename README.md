@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="70" src="https://raw.githubusercontent.com/fwedwicc/fwedwicc/main/assets/fm-logo.svg" />
+    <img height="110" src="https://raw.githubusercontent.com/fwedwicc/fwedwicc/main/assets/FM-logo.png" />
 </div>
 
 <h3 align="center">< Fred / ></h3>
