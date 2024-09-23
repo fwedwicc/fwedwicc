@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="center">Front-end Developer and UI/UX Designer</h6>
+<h6 align="center">Front-end Developer | UI/UX Designer | BSIT Student</h6>
 
 ###
 
