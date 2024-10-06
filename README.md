@@ -4,7 +4,22 @@
 
 ###
 
-<h6 align="center">README is currently under construction.</h6>
+<div align="center">
+ <a href="https://fwedwicc.github.io/FM-Portfolio/" target="blank"><img src="https://raw.githubusercontent.com/fwedwicc/fwedwicc/main/assets/fm-logo.png" height="30" alt="FM Portfolio"  /></a>
+  <img width="8" />
+ <a href="https://www.linkedin.com/in/frederick-moreno/" target="blank"><img src="https://raw.githubusercontent.com/fwedwicc/fwedwicc/main/assets/linkedin-logo.png" height="30" alt="LinkedIn"  /></a>
+  <img width="8" />
+ <a href="https://dribbble.com/fwedwic" target="blank"><img src="https://raw.githubusercontent.com/fwedwicc/fwedwicc/main/assets/dribbble-logo.png" height="30" alt="Dribbble"  /></a>
+  <img width="8" />
+ <a href="https://www.behance.net/fwedwicc" target="blank"><img src="https://raw.githubusercontent.com/fwedwicc/fwedwicc/main/assets/behance-logo.png" height="30" alt="Behance"  /></a>
+ <img width="8" />
+  <a href="https://facebook.com/fwedwic" target="blank"><img src="https://raw.githubusercontent.com/fwedwicc/fwedwicc/main/assets/facebook-logo.png" height="30" alt="Facebook"  /></a>
+ <img width="8" />
+ <a href="https://instagram.com/freefinnn" target="blank"><img src="https://raw.githubusercontent.com/fwedwicc/fwedwicc/main/assets/Instagram-logo.png" height="30" alt="Instagram"  /></a>
+ <img width="8" />
+ <a href="mailto:moreno.frederick.capiral@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/fwedwicc/fwedwicc/main/assets/gmail-logo.png" height="30" alt="Gmail"  /></a>
+ <img width="8" />
+</div>
 
 ###
 
