@@ -1,8 +1,6 @@
-<div align="center">
-    <img height="105" src="https://raw.githubusercontent.com/fwedwicc/fwedwicc/main/assets/FM-logo.png" />
-</div>
+<img src="https://raw.githubusercontent.com/fwedwicc/fwedwicc/main/assets/FM-GitHub-banner.png" width='100%' alt="GitHub Banner"  />
 
-<h3 align="center">< Fred / ></h3>
+<h3 align="center">README is currently Under Construction</h3>
 
 ###
 
